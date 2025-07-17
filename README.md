@@ -23,7 +23,7 @@ A simple and interactive Travel Map built with **HTML**, **CSS**, and **JavaScri
 
 ## 📷 Screenshot
 
-![Travel Map Screenshot](travelMap.png) <!-- Replace with your actual screenshot file -->
+![Travel Map Screenshot](/image/travelMap.png) <!-- Replace with your actual screenshot file -->
 
 ## 📦 Getting Started
 
